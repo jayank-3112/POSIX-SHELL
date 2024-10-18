@@ -1,6 +1,4 @@
 
-# AOS Assignment 2
-
 ## Implementation of Posix Shell using C++
 
 A basic shell terminal is implemented with following features:-
